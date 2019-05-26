@@ -1,8 +1,8 @@
 # Curso de Android Criando seu primeiro App Mobile
 > Projeto de uma agenda de alunos.
->> Funcionalidades: 
-* Cadastrar um aluno.
-* Listar aluno cadastrado.
+* Funcionalidades: 
+  * Cadastrar um aluno.
+  * Listar aluno cadastrado.
 
 ## Pré- requisito
 * Orientação a Objetos.
