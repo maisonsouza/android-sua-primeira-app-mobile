@@ -51,19 +51,30 @@
   * O que é um Toast ?
  > Serve para mostrar uma mensagem na tela, longa ou curta.(Não utilizar como debug).
   
+### Aula 02 - Aplicando layouts para activities.
   * Criando layout de uma activity
   > Via arquivo Java (Mais complicado).
-  > Via Arquivo estático. (Mais simples e com mais ferramentas).
+  > Via Arquivo estático. (Mais simples e com mais ferramentas), pasta resources(res).
+    * Permite drag-and-drop
+    * Editor personalozado com as propriedades das views.
   
   * Boas práticas de implementação no Android
-  >
+  > Não colocar muitas responsabilidades dentro da activity (lógica e views).
+  > Colocar bons nomes para as views
+ 
+  > `Fazemos o vínculo do layout com o Java através do método findViewById()`
+  * A Classe R faz o mapeamento dos recursos do layout para o Java.
   
+  > Proposta de Implementação de Layout
+  * Lista de Alunos
+  * Botão para adicionar um novo aluno (FAB)
+
+  
+### Aula 03 - Entendendo a base de construção de layouts.
+  > 
   * Ações dos botôes (listerners).
-  >
   * DAO (Data Acess Object)
-* Aula 02 - Aplicando layouts para activities.
-* Aula 03 - Entendendo a base de construção de layouts.
-* Aula 04 - Trabalhando com arquivo fonte de layout.
-* Aula 05 - Finalizando o fluxo do App.
+### Aula 04 - Trabalhando com arquivo fonte de layout.
+### Aula 05 - Finalizando o fluxo do App.
 
 
