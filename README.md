@@ -4,10 +4,10 @@
   * Cadastrar um aluno.
   * Listar aluno cadastrado.
 
-## Pré- requisito
+## Pré- requisitos
 * Orientação a Objetos.
 
-* Aula 01 - Criando o primeiro App.
+### Aula 01 - Criando o primeiro App.
 * Conteudo:
   * O que é o Android ?
   > Sistema operacional, open source,Código aberto, baseado em Linux.
@@ -25,9 +25,7 @@
   * Invalidando cache e reiniciando o Android Studio.
   * Limpar e recompilar o projeto
   * Sincronizar projeto com o Gradle.
-  
-  
-  
+ 
   
   * O que é uma activity
   * Registrar uma activity
