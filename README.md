@@ -71,8 +71,16 @@
 
   
 ### Aula 03 - Entendendo a base de construção de layouts.
-  > 
+  > FloatingActionButton
+  - Base para montar layouts no Android 
+    - `Todos os componentes são views`
+    - ``Ficam agrupadas dentro de uma ViewGroup - Container (LinearLayout, RelativeLayout)``
   * Ações dos botôes (listerners).
+  * Layout via XML
+  > Hierarquia com níveis de indentação, namespace na primeira view.
+  > Diferenças entre PX E DP
+  * atributo clickable e focusable (tab, acessibilidade).
+  
   * DAO (Data Acess Object)
 ### Aula 04 - Trabalhando com arquivo fonte de layout.
 ### Aula 05 - Finalizando o fluxo do App.
