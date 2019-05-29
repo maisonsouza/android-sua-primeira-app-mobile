@@ -81,8 +81,17 @@
   > Diferenças entre PX E DP
   * atributo clickable e focusable (tab, acessibilidade).
   
-  * DAO (Data Acess Object)
 ### Aula 04 - Trabalhando com arquivo fonte de layout.
+- Podemos adicionar arquivos para o layout na pasta drawable.
+- Adicionamos uma AppBar através da herança de AppCompatActivity 
+- Shift + F6 Renomear o projeto.
+- Adicionando uma activity de formulario.
+
 ### Aula 05 - Finalizando o fluxo do App.
+- setOnClicklistener para implementar a ação do botão após ser clicado.
+- DAO
+
+
+
 
 
