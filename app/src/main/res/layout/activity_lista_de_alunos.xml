@@ -3,20 +3,21 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".ui.activity.ListaAlunosActivity">
 
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/activity_main_botao_flutuante"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignBottom="@+id/activity_main_lista_alunos"
+        android:layout_alignBottom="@+id/activity_lista_alunos_listview"
         android:layout_alignParentEnd="true"
         android:layout_margin="16dp"
+        android:src="@drawable/ic_action_novo_aluno"
         android:clickable="true"
         android:focusable="true"/>
 
     <ListView
-        android:id="@+id/activity_main_lista_alunos"
+        android:id="@+id/activity_lista_alunos_listview"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
