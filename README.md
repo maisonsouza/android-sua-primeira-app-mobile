@@ -90,6 +90,7 @@
 ### Aula 05 - Finalizando o fluxo do App.
 - setOnClicklistener para implementar a ação do botão após ser clicado.
 - DAO
+- Ciclo de Vida da Activity
 
 
 
