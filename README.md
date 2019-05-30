@@ -89,8 +89,15 @@
 
 ### Aula 05 - Finalizando o fluxo do App.
 - setOnClicklistener para implementar a ação do botão após ser clicado.
-- DAO
+- BindContructorParameterstoFiels (Pega s parametros e faz as devidas atribuiçõe sno contrutor)
+- DAO (Design Pattern)
 - Ciclo de Vida da Activity
+- Cltrl + Alt + O (remover imports inutilizados)
+- Refatoração no código
+- Extract Method
+- Alt + Shift + setapracima ou setaparabaixo para Mover código.
+- Cltr + Alt + F (Cria atributos)
+- Refatoração não deve alterar o comportamento da aplicação.
 
 
 
