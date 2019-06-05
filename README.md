@@ -72,6 +72,12 @@
   * Relative Layout (Elementos dispostos relativos uns aos outros)
   * Constraint Layout (Novo padrão de construção de layouts, mais flexível)
   ```
+  > Valor de atributos de largura e altura
+  ```
+  match_parent = Mesmo tamanho do pai
+  wrap_content = o suficiente para a view aparecer.
+  um número exato.
+  ```
   > Via arquivo Java (Mais complicado).
   > Via Arquivo estático. (Mais simples e com mais ferramentas), pasta resources(res).
     * Permite drag-and-drop
