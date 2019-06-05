@@ -66,6 +66,12 @@
   ```
   O método setContenView faz o mapeamento entre o layout e o Java.
   ```
+  > Tipos de Layout
+  ```
+  * Linear Layout (Elementos dispostos em linha de cima para baixo)
+  * Relative Layout (Elementos dispostos relativos uns aos outros)
+  * Constraint Layout (Novo padrão de construção de layouts, mais flexível)
+  ```
   > Via arquivo Java (Mais complicado).
   > Via Arquivo estático. (Mais simples e com mais ferramentas), pasta resources(res).
     * Permite drag-and-drop
