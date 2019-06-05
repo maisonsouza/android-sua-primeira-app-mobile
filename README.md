@@ -87,14 +87,20 @@
   > Não colocar muitas responsabilidades dentro da activity (lógica e views).
   > Colocar bons nomes para as views
  
-  > `Fazemos o vínculo do layout com o Java através do método findViewById()`
-  * A Classe R faz o mapeamento dos recursos do layout para o Java.
+  > `Fazemos o vínculo do layout com o Java através do método findViewById() onde passaremos o id definido lá no XML`
+  ```
+  A Classe R faz o mapeamento dos recursos do layout para o Java. 
+  ```
   
   > Proposta de Implementação de Layout
   * Lista de Alunos
+```
+Uma exibição de lista é uma exibição de adaptador que não conhece os detalhes, como tipo e conteúdo, das visualizações que ela contém.  Em vez disso, a exibição de lista solicita as exibições sob demanda de ListAdapter de acordo com as necessidades, por exemplo, para exibir novas exibições à medida que o usuário rola para cima ou para baixo.
+
+Para exibir itens na lista, ligue setAdapter(android.widget.ListAdapter) para associar um adaptador à lista.
+```
   * Botão para adicionar um novo aluno (FAB)
 
-  
 ### Aula 03 - Entendendo a base de construção de layouts.
   > FloatingActionButton
   - Base para montar layouts no Android 
