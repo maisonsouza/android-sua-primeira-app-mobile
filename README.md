@@ -106,7 +106,7 @@ Para exibir itens na lista, ligue setAdapter(android.widget.ListAdapter) para as
   - Base para montar layouts no Android 
     - `Todos os componentes são views`
     - ``Ficam agrupadas dentro de uma ViewGroup - Container (LinearLayout, RelativeLayout)``
-  * Ações dos botôes (listerners).
+  * Ações dos botões (listerners).
   * Layout via XML
   > Hierarquia com níveis de indentação, namespace na primeira view.
   > Diferenças entre PX E DP
@@ -120,10 +120,10 @@ Para exibir itens na lista, ligue setAdapter(android.widget.ListAdapter) para as
 
 ### Aula 05 - Finalizando o fluxo do App.
 - setOnClicklistener para implementar a ação do botão após ser clicado.
-- BindContructorParameterstoFiels (Pega s parametros e faz as devidas atribuiçõe sno contrutor)
+- BindContructorParameterstoFields (Pega os parametros e faz as devidas atribuições no construtor)
 - DAO (Design Pattern)
 - Ciclo de Vida da Activity
-- Cltrl + Alt + O (remover imports inutilizados)
+- Cltrl + Alt + O (remove imports inutilizados)
 - Refatoração no código
 - Extract Method
 - Alt + Shift + setapracima ou setaparabaixo para Mover código.
